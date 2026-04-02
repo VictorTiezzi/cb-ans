@@ -1,0 +1,6 @@
+cost: 1598.53
+Type 1         Route 1:           0    2   21   32   27   16   35    0
+Type 3         Route 2:           0    9   22    6   23   11   25   20   10    0
+Type 3         Route 3:           0   15   28   12   18    3    4    1   17    0
+Type 2         Route 4:           0   34   29   30   26    5    8    0
+Type 2         Route 5:           0   33    7   14   31   19   13   24    0
